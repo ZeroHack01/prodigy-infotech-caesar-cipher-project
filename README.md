@@ -4,8 +4,7 @@ Overview
 The Caesar Cipher Project is a Python-based implementation of the Caesar Cipher encryption and decryption algorithm. The Caesar Cipher is one of the simplest and oldest methods of encryption, named after Julius Caesar, who used it to securely communicate with his generals. This project demonstrates the basic principles of encryption and decryption using this classical technique.
 Purpose
 
-This project was developed as part of an internship program at Prodigy Infotech. The goal of the internship is to provide practical experience with encryption algorithms, Python programming, and software development practices. This project showcases how fundamental cryptographic techniques can be implemented and utilized in real-world scenarios.
-Features
+This project was developed as part of an internship program at Prodigy Infotech.
 
     Encryption: Convert plaintext to ciphertext using a specified shift value.
     Decryption: Convert ciphertext back to plaintext using the same shift value.
