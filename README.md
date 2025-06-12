@@ -82,9 +82,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributing
 
 Contributions to this project are welcome. Please follow the guidelines provided in the repository for submitting issues and pull requests.
-Contact
-
-For further information or any questions, please contact:
-
-    Name:Analogtechmaster
-    Email:analogtechmster905@gmail.com
